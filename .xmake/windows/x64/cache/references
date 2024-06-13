@@ -1,0 +1,8 @@
+{
+    packages = {
+        [[C:\Users\tapet\AppData\Local\.xmake\packages\g\glu\latest\b1caf5aecf3447d1bfaf66081135de32]],
+        [[C:\Users\tapet\AppData\Local\.xmake\packages\o\opengl\latest\b1caf5aecf3447d1bfaf66081135de32]],
+        [[C:\Users\tapet\AppData\Local\.xmake\packages\f\freeglut\v3.4.0\9e1e9a63d6b948868b158c0a7189e4ed]],
+        [[C:\Users\tapet\AppData\Local\.xmake\packages\s\stb\2023.12.15\1e9afa0be82a4afeaeaa89283f7b4e4d]]
+    }
+}

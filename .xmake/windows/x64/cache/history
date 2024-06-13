@@ -1,0 +1,30 @@
+{
+    cmdlines = {
+        "xmake run",
+        "xmake ",
+        "xmake run",
+        "xmake ",
+        "xmake run",
+        "xmake ",
+        "xmake run",
+        "xmake ",
+        "xmake run",
+        "xmake ",
+        "xmake run",
+        "xmake ",
+        "xmake run",
+        "xmake ",
+        "xmake run",
+        "xmake ",
+        "xmake ",
+        "xmake run",
+        "xmake ",
+        "xmake run",
+        "xmake ",
+        "xmake run",
+        [[xmake l c:\Users\tapet\.vscode\extensions\tboox.xmake-vscode-2.3.5\assets\explorer.lua]],
+        [[xmake l c:\Users\tapet\.vscode\extensions\tboox.xmake-vscode-2.3.5\assets\config.lua]],
+        "xmake ",
+        "xmake run"
+    }
+}
