@@ -38,8 +38,7 @@ Mosquitos da dengue atacam ao cair da tarde, mas a cidade está protegida! Um ca
 
 > [!WARNING]
 > Dentro dos arquivos mosquito.cpp e canhao.cpp existem variáveis de velocidade que podem precisar de ajuste:
- float velocidadeQuedaMosquitos = 2.0f;
- float velocidadeTiroCanhao = 0.02f;
+ float velocidadeQuedaMosquitos = 2.0f    e     float velocidadeTiroCanhao = 0.02f;
 
 ## Ferramentas Utilizadas
 
