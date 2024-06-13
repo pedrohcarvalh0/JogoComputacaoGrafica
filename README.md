@@ -50,7 +50,7 @@ Mosquitos da dengue atacam ao cair da tarde, mas a cidade está protegida! Um ca
 ## Clonar Repositório
 
 ```bash
-git clone https://github.com/paulohebert/aedes-attack.git
+git clone https://github.com/pedrohcarvalh0/JogoComputacaoGrafica.git
 ```
 
 ## Compilar Projeto
